@@ -13,4 +13,7 @@
 ![This is an image](./Task4SS.png)
 # Task5
 ![This is an image](./Task5SS.png)
+# Task6
+
+![This is an image](./Task6SS.png)
 
