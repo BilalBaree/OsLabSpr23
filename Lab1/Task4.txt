@@ -1,0 +1,45 @@
+Script started on 2023-01-27 10:43:59+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ sudpo[K[Ko add =[K[Kuys[K[Kser user[K[K[K[Kuser1
+[sudo] password for student: 
+Adding user `user1' ...
+Adding new group `user1' (1004) ...
+Adding new user `user1' (1003) with group `user1' ...
+The home directory `/home/user1' already exists.  Not copying from `/etc/skel'.
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for user1
+Enter the new value, or press ENTER for the default
+	Full Name []: User001
+	Room Number []: 0
+	Work Phone []: 0
+	Home Phone []: 0
+	Other []: 0
+Is the information correct? [Y/n] y
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ sudo adduser Us[K[Kuser2
+Adding user `user2' ...
+Adding new group `user2' (1007) ...
+Adding new user `user2' (1006) with group `user2' ...
+Creating home directory `/home/user2' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for user2
+Enter the new value, or press ENTER for the default
+	Full Name []: User002
+	Room Number []: 0
+	Work Phone []: 0
+	Home Phone []: 0
+	Other []: 0
+Is the information correct? [Y/n] y
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ clear
+[H[2J[3J]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ su user1
+Password: 
+]0;user1@student-OptiPlex-7090: /home/student/Desktop[01;32muser1@student-OptiPlex-7090[00m:[01;34m/home/student/Desktop[00m$ su usert[K2
+Password: 
+]0;user2@student-OptiPlex-7090: /home/student/Desktop[01;32muser2@student-OptiPlex-7090[00m:[01;34m/home/student/Desktop[00m$ exit
+]0;user1@student-OptiPlex-7090: /home/student/Desktop[01;32muser1@student-OptiPlex-7090[00m:[01;34m/home/student/Desktop[00m$ exit
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2023-01-27 10:47:06+05:00 [COMMAND_EXIT_CODE="0"]
