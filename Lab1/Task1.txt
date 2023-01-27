@@ -1,0 +1,289 @@
+Script started on 2023-01-27 09:57:54+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd D[K[K[K[KMKD[K[K[Kcd[K[Kmkdir Lab[K[K[KOsLab1
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cd OsLavb1[K[K[Kb1\[K
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ touch Is[K[KText.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ echop[K "Hello WOrl[K[K[Korld [K" >> Text.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ cat [K[K[K[Kcat Text.txt
+Hello World
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ sch[K[K[Kecho "New World" >> Text.txty[K
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ wst[K[K[Kstrings Text.txt
+Hello World
+New World
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ grep -r "World"
+[35m[KText.txt[m[K[36m[K:[m[KHello [01;31m[KWorld[m[K
+[35m[KText.txt[m[K[36m[K:[m[KNew [01;31m[KWorld[m[K
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ ls
+Text.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ ps
+    PID TTY          TIME CMD
+   9979 pts/1    00:00:00 bash
+  10167 pts/1    00:00:00 ps
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ history
+    1  sudo passwd root
+    2  su
+    3  uname -r
+    4  uname
+    5  uname --help
+    6  ubuntu
+    7  uname -a
+    8  version
+    9  eXit
+   10  exit
+   11  cd Desktop
+   12  mkdir pdc
+   13  cd pdc
+   14  clone https://github.com/mdestefano/MPI-Word-Count.git
+   15  git clone https://github.com/mdestefano/MPI-Word-Count.git
+   16  sudo apt install git
+   17  git clone https://github.com/mdestefano/MPI-Word-Count.git
+   18  ls
+   19  cd MPI-Word_count
+   20  cd MPI-Word-count
+   21  cd MPI-Word-Count
+   22  make clean
+   23  sudo apt install make
+   24  sudo apt install make-guile
+   25  make clean
+   26  make
+   27  mpirun -np i --hostfile hostfile ./bin/main input/ws_i.txt
+   28  sudo apt install mpich  
+   29  mpirun -np i --hostfile hostfile ./bin/main input/ws_i.txt
+   30  cd ..
+   31  gedit avg.c
+   32  mpirun -n 4 ./avg 100
+   33  mpicc avg.c -o avg
+   34  mpirun -n 4 ./avg 100
+   35  delete Israel
+   36  vim
+   37  sudo apt install vim
+   38  vim
+   39  vin
+   40  vim
+   41  delete osfile
+   42  vim osfile
+   43  vim Rabyan.txt
+   44  vim Rabyan
+   45  vim Ali
+   46  vim Rabyan
+   47  man man
+   48  echo "Jatin"
+   49  $ps
+   50  $ ps
+   51  ps
+   52  ps alias
+   53  ps -Alias
+   54  ps -A
+   55  kill sigterm 6497
+   56  sudo addgroup OSLAB02
+   57  sudo addgroup "OSLAB02"
+   58  sudo useradd OSUser1
+   59  sudo adduser --ingroup OSUser1
+   60  su OSUser1 -
+   61  su OSUser1
+   62  su OSUser1 -
+   63  sudo adduser --ingroup OSUser1
+   64  sudo adduser --ingroup sudo OSUser1
+   65  sudo addgroup "OSLAB02"
+   66  sudo useradd OSUser1
+   67  sudo adduser --ingroup OSUser1
+   68  su OSUser1 -
+   69  student
+   70  wget www.google.com.pk
+   71  wget https://flexstudent.nu.edu.pk/Login
+   72  wget www.google.com.pk
+   73  dir
+   74  su -l OSUser1
+   75  sudo addgroup "OSLAB02" --force-badname
+   76  sudo groupadd OSLAB02
+   77  sudo adduser OSUser1 OSLAB02
+   78  sudo useradd -G OSLAB02 OSUser1
+   79  sudo adduser OSUser1 OSLAB02
+   80  sudo adduser OSUser2 OSLAB02
+   81  sudo useradd -G OSLAB02 OSUser2
+   82  sudo adduser OSUser2 OSLAB02
+   83  sudo passwd OSUser1
+   84  sudo passwd OSUser2
+   85  OSUser1
+   86  su OSUser1
+   87  su -l OSUser1
+   88  man man
+   89  cat first.c
+   90  sudo addgroup OSLAB02
+   91  sudo adduser OSUser1
+   92  sudo adduser OSUser2
+   93  sudo groupadd OSLAB02
+   94  pwd
+   95  ls
+   96  cd Desktop/
+   97  mkdir -p dirOSLAB/subDir/subsubdir/OSLAB02
+   98  cat first_prog.c
+   99  exit
+  100  cat first.cexit
+  101  cat first.c
+  102  cat first.c
+  103  pwd
+  104  ls
+  105  cd Desktop/
+  106  mkdie -p dirOSLAB/subDir/subsubdir/OSLAB02
+  107  mkdir -p dirOSLAB/subDir/subsubdir/OSLAB02
+  108  cat first.c
+  109  exit
+  110  clear
+  111  gcc --version
+  112  gcc -o testfile testfile.c
+  113  ./testfile
+  114  exit
+  115  ./testfile
+  116  gcc -o testfile testfile.c
+  117  gcc -o testfile.c
+  118  ./testfile
+  119  desktop
+  120  gcc testfile.c -o testfile
+  121  ./testfile
+  122  getit hello.c
+  123  gedit hello.c
+  124  gcc -o hello hello.c
+  125  ./hello
+  126  gedit hello1.c
+  127  gcc -o hello1 hello1.c
+  128  ./hello1.c
+  129  ./hello\
+  130  ./hello1
+  131  cat hello newline hello1 newline merge > newfile
+  132  cat hello hello1 merge > newfile
+  133  cat hello.c hello1.c > all.c
+  134  sudo reboot
+  135  exit
+  136  date
+  137  time
+  138  exit
+  139  man ls
+  140  clear
+  141  man man
+  142  echo huzaifascinating
+  143  history -d 1
+  144  history
+  145  echo -n
+  146  echo huzi
+  147  echo -n huzi
+  148  exit
+  149  alias h=history
+  150  h
+  151  alias cout=echo
+  152  cout -nhuzi
+  153  cout huzi
+  154  unalias e
+  155  unalias cout
+  156  cout huzi
+  157  pwd
+  158  ls
+  159  cd desktop
+  160  cd Desktop
+  161  pwd
+  162  mkdir lab01
+  163  cd lab01
+  164  pwd
+  165  touch huzi.txt
+  166  mv huzi.txt huzaifa.txt
+  167  cd ..
+  168  rm huzaifa.txt
+  169  cd lab01
+  170  rm huzaifa.txt
+  171  rmdir lab01
+  172  cd ..
+  173  rmdir lab01
+  174  mkdir OSlab01
+  175  touch huzi.txt huzi2.txt
+  176  cp huzi.txt ../
+  177  cp huzi2.txt ./Documents
+  178  clear
+  179  rm huzi.txt
+  180  rm huzi2.txt
+  181  rmdir OSlab
+  182  rmdir OSlab01
+  183  rm Document
+  184  rmdir Documents
+  185  rm Documents
+  186  rm testfile.c
+  187  rmdir dirOSLAB
+  188  cd dirOSLAB
+  189  clear
+  190  cd ..
+  191  clear
+  192  mkdir cat
+  193  cd cat
+  194  pwd
+  195  cat >task.txt
+  196  cat >task2.txt
+  197  cat > task.txt task2.txt
+  198  cat task.txt task2.txt > huzi.txt
+  199  nano huzi.txt
+  200  cd ..
+  201  shut down
+  202  shutdown
+  203  sh236+520
+  204  shutdown -c
+  205  ps
+  206  clear
+  207  sudo adduser test
+  208  sudo adduser 21k3376_Huzaifa
+  209  sudo adduser huzaifa
+  210  sudo adduser Huzaifa
+  211  sudo adduser Huzaifaa
+  212  reboot
+  213  sudo adduser Huzaifa
+  214  sudo adduser Huzaifa --force-badname
+  215  reboot
+  216  sudo deluser Huzaifa
+  217  sudo deluser huzaifa
+  218  sudo deluser Huzaifa
+  219  sudo snap install htop
+  220  shutdown
+  221  ls
+  222  cd Desktop
+  223  strings /bin/bash
+  224  clear
+  225  exitt
+  226  exit
+  227  clear
+  228  sudo
+  229  clear
+  230  cd Desktop 
+  231  mkdir OsLab1
+  232  cd OsLab1
+  233  touch Ostextclear
+  234  reset
+  235  clear
+  236  script
+  237  cd Desktop
+  238  ls
+  239  mkdir OsLab1
+  240  cd OsLab1
+  241  touch OsText.txt
+  242  echo "Hello World" >> OsText.txt
+  243  ls
+  244  echo OsText.txt
+  245  cat OsText.txt
+  246  echo "New World" >> OsText.txt
+  247  strings OsText.txt
+  248  ps
+  249  clear
+  250  cd Desktop
+  251  cd Home
+  252  mkdir OsLab1
+  253  cd OsLab1
+  254  touch Text.txt
+  255  echo "Hello World" >> Text.txt
+  256  cat Text.txt
+  257  echo "New World" >> Text.txt
+  258  strings Text.txt
+  259  grep -r "World"
+  260  ls
+  261  ps
+  262  history
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ date
+Fri 27 Jan 2023 10:02:24 AM PKT
+]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ clear
+[H[2J[3J]0;student@student-OptiPlex-7090: ~/Desktop/OsLab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OsLab1[00m$ exit
+
+Script done on 2023-01-27 10:03:09+05:00 [COMMAND_EXIT_CODE="0"]
