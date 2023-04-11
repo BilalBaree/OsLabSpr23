@@ -12,3 +12,8 @@ The Average Process Created are 10.
 On Linux systems, for example, the maximum number of processes that can be created can be increased by modifying the "kernel.pid_max" parameter using the "sysctl" command or by modifying the "nr_max_processes" value in the "/proc/sys/kernel" file system. However, modifying these values can have system-wide effects and may impact the performance and stability of the system.
 
 In general, it is recommended to avoid creating excessive numbers of child processes and to monitor system resource usage to ensure that the system does not become overloaded. If your application requires the creation of a large number of child processes, consider implementing alternative designs or using alternative technologies that are better suited to the task.
+Task1 : 
+![Task1_SS](https://user-images.githubusercontent.com/123714188/231220876-73ed3178-6b42-476e-86ef-2180d7c3eeb4.png)
+Task2 :
+![Task2_SS](https://user-images.githubusercontent.com/123714188/231220967-ed90e53f-752f-4237-b234-4e14994bd687.png)
+
