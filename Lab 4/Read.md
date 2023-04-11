@@ -5,6 +5,7 @@ On Linux systems, for example, the maximum number of processes is controlled by 
 However, it is still possible to encounter limitations if the system is heavily loaded or if the process is creating a large number of child processes. In such cases, the process may fail to create additional child processes, or the system may become unresponsive or unstable.
 
 It is therefore important to monitor system resource usage and adjust process behavior as necessary to avoid exceeding resource limits and causing system instability.
+The Average Process Created are 10.
 
 5(B) : Yes, the limit of the maximum number of processes that can be created can be increased in some cases. However, this typically requires modifying system settings or kernel parameters, which can be complex and may have unintended consequences.
 
