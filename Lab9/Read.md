@@ -5,3 +5,4 @@ Task1 :
 
 SpreadSheet Info Chart : 
 
+![SpreadSheet_SS](https://user-images.githubusercontent.com/123714188/234209264-ec9fd6e0-31e7-4afa-abf9-528e77a171e8.jpg)
