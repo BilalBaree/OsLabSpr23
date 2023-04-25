@@ -1,0 +1,66 @@
+Thread Count: 10
+Task1:
+
+real	0m2.007s
+user	0m0.000s
+sys	0m0.003s
+Thread Count: 20
+Task1:
+
+real	0m2.017s
+user	0m0.004s
+sys	0m0.000s
+Thread Count: 30
+Task1:
+
+real	0m2.019s
+user	0m0.000s
+sys	0m0.005s
+Thread Count: 40
+Task1:
+
+real	0m2.022s
+user	0m0.003s
+sys	0m0.003s
+Thread Count: 50
+Task1:
+
+real	0m2.039s
+user	0m0.000s
+sys	0m0.013s
+Thread Count: 60
+Task1:
+
+real	0m2.025s
+user	0m0.000s
+sys	0m0.007s
+Thread Count: 70
+Task1:
+
+real	0m2.021s
+user	0m0.000s
+sys	0m0.008s
+Thread Count: 80
+Task1:
+
+real	0m2.027s
+user	0m0.005s
+sys	0m0.005s
+Thread Count: 80
+Task1:
+
+real	0m2.031s
+user	0m0.000s
+sys	0m0.010s
+Thread Count: 90
+Task1:
+
+real	0m2.039s
+user	0m0.000s
+sys	0m0.017s
+Thread Count: 100
+Task1:
+
+real	0m2.028s
+user	0m0.000s
+sys	0m0.012s
