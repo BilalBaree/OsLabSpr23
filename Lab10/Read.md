@@ -8,6 +8,7 @@ $ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-syste
 
 2 : Download Raspberry PI Buster Lite Image <br>
 Download 2022-09-22-raspios-buster-armhf-lite.img.xz from : [Website](https://www.raspberrypi.com/software/operating-systems/) <br>
+Direct Download : [Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-09-26/2022-09-22-raspios-buster-armhf-lite.img.xz) <br>
 
 3 : Download kernel-qemu-4.19.50-buster and versatile-pb-buster.dtb <br>
 Link : https://github.com/dhruvvyas90/qemu-rpi-kernel <br>
