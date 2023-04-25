@@ -14,7 +14,7 @@ Direct Download : [Download](https://downloads.raspberrypi.org/raspios_oldstable
 Link : [website](https://github.com/dhruvvyas90/qemu-rpi-kernel) <br>
 
 4 : Set up the VM in Virtual Manager <br>
-Open Virtual Machine Manager with <br>$ sudo virt-manager and Click Create new virtual machine. <br>
+Open Virtual Machine Manager with <br>$ sudo virt-manager <br>Click Create new virtual machine. <br>
 Step 1:
 
     Choose Import existing disk image.
