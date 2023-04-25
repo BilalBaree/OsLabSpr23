@@ -2,9 +2,9 @@ Installation Guide for Raspberry Pi In QEMU on Kali/Debian Linux
 
 
 
-1 : Install QEMU <br>
+<p>1 : Install QEMU <br>
 $ sudo apt update <br>
-$ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager <br>
+$ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager <br> </p>
 
 2 : Download Raspberry PI Buster Lite Image <br>
 Download 2022-09-22-raspios-buster-armhf-lite.img.xz from : <br> 
