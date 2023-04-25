@@ -11,10 +11,10 @@ Download 2022-09-22-raspios-buster-armhf-lite.img.xz from : [Website](https://ww
 Direct Download : [Download](https://downloads.raspberrypi.org/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2022-09-26/2022-09-22-raspios-buster-armhf-lite.img.xz) <br>
 
 3 : Download kernel-qemu-4.19.50-buster and versatile-pb-buster.dtb <br>
-Link : https://github.com/dhruvvyas90/qemu-rpi-kernel <br>
+Link : [website](https://github.com/dhruvvyas90/qemu-rpi-kernel) <br>
 
 4 : Set up the VM in Virtual Manager <br>
-Open Virtual Machine Manager with $ sudo virt-manager and Click Create new virtual machine. <br>
+Open Virtual Machine Manager with <br>$ sudo virt-manager and Click Create new virtual machine. <br>
 Step 1:
 
     Choose Import existing disk image.
