@@ -2,19 +2,19 @@ Installation Guide for Raspberry Pi In QEMU on Kali/Debian Linux
 
 
 
-1 : Install QEMU<br>
-$ sudo apt update
-$ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager
+1 : Install QEMU <br>
+$ sudo apt update <br>
+$ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager <br>
 
-2 : Download Raspberry PI Buster Lite Image
-Download 2022-09-22-raspios-buster-armhf-lite.img.xz from : 
-link : https://www.raspberrypi.com/software/operating-systems/
+2 : Download Raspberry PI Buster Lite Image <br>
+Download 2022-09-22-raspios-buster-armhf-lite.img.xz from : <br> 
+link : https://www.raspberrypi.com/software/operating-systems/ <br>
 
-3 : Download kernel-qemu-4.19.50-buster and versatile-pb-buster.dtb
-Link : https://github.com/dhruvvyas90/qemu-rpi-kernel
+3 : Download kernel-qemu-4.19.50-buster and versatile-pb-buster.dtb <br>
+Link : https://github.com/dhruvvyas90/qemu-rpi-kernel <br>
 
-4 : Set up the VM in Virtual Manager
-Open Virtual Machine Manager with $ sudo virt-manager and Click Create new virtual machine.
+4 : Set up the VM in Virtual Manager <br>
+Open Virtual Machine Manager with $ sudo virt-manager and Click Create new virtual machine. <br>
 Step 1:
 
     Choose Import existing disk image.
