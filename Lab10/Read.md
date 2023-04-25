@@ -2,7 +2,8 @@ Installation Guide for Raspberry Pi In QEMU on Kali/Debian Linux
 
 
 
-1 : Install QEMU 
+1 : Install QEMU
+
 $ sudo apt update
 $ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager
 
