@@ -22,5 +22,5 @@ Squid is widely used in enterprise networks, ISPs, educational institutions, and
   sudo apt-get install squid</code> <br>
     <p>To make configuration use the command<p>
       <code>sudo Gedit /etc/squi.conf</code><br>
-      <p>Now restart squid using command<p><br>
+      <p>Now restart squid using command<p>
         <code>sudo systemctl restart squid</code><br>
