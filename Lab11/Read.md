@@ -17,6 +17,6 @@ Squid proxy service provides various features and functionalities, including:
 
 Squid is widely used in enterprise networks, ISPs, educational institutions, and other environments to improve performance, enhance security, and manage internet access. It is highly customizable and extensible, with a large community of users and developers contributing to its development and support.<br>
   <p> Commands <br>
-    1. To install the squid package, run the following command:
+    1. To install the squid package, run the following command:<br>
 <code>sudo apt-get update
   sudo apt-get install squid</code> <br>
