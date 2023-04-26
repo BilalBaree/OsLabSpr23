@@ -17,6 +17,6 @@ access control policies<p><br>
   add all the sites you want to block<br><p>
  <p>4. Now restart squid using command:<br>
    <code>sudo systemctl restart squid</code><br><p>
- <p>5. Now go to browser Go to setting and search for proxy<p><br>
- <p>6. Click on settings Select manual proxy configuration and your ip and default por<p><br>
- <p>7. Now Browse for site you block<p><br>
+ <p>5. Now go to browser Go to setting and search for proxy<p>
+ <p>6. Click on settings Select manual proxy configuration and your ip and default por<p>
+ <p>7. Now Browse for site you block<p>
