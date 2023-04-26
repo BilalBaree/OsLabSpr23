@@ -20,5 +20,5 @@ Squid is widely used in enterprise networks, ISPs, educational institutions, and
     1. To install the squid package, run the following command:<br>
 <code>sudo apt-get update
   sudo apt-get install squid</code> <br>
-    <pr>To make configuration use the comand<p>
+    <p>To make configuration use the command<p>
       <code>sudo Gedit /etc/squi.conf</code><br>
