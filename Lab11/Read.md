@@ -20,7 +20,7 @@ access control policies<p>
  <p>5. Now go to browser Go to setting and search for proxy<p>
  <p>6. Click on settings Select manual proxy configuration and your ip and default por<p>
  <p>7. Now Browse for site you block<p>
- <p>Linux Hardening <p>
+ <p>Linux Hardening: <p>
 <p>Linux hardening is the process of securing a Linux-based operating system by implementing various security measures to protect against potential threats, vulnerabilities, and attacks. It involves configuring the system to minimize potential attack vectors and reduce the risk of unauthorized access, data breaches, and system compromises. Here are some general guidelines for Linux hardening:
 
     Keep the system up-to-date: Regularly apply updates and patches to the Linux operating system, including the kernel, software packages, and libraries, to ensure that known security vulnerabilities are patched and fixed.
