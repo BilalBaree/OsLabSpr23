@@ -5,7 +5,7 @@ operating systems. It provides a range of features, including caching web pages,
 requests, and logging user activity. Squid is commonly used by organizations to improve network
 performance by reducing bandwidth usage and speeding up web page loading times for users.
 Squid can also be used for content filtering, blocking access to certain websites, and enforcing
-access control policies<p><br>
+access control policies<p>
 <p>Guide To Installation Of Squid<p>
 <p>1. To install the squid package, run the following command:<br>
   <code>sudo apt-get update</code><br>
