@@ -16,3 +16,7 @@ Squid proxy service provides various features and functionalities, including:
     Reverse proxy: Squid can also be configured as a reverse proxy, where it receives requests from clients on behalf of backend servers, such as web servers, and forwards the requests to the appropriate backend server, allowing for load balancing, SSL termination, and other advanced configurations.
 
 Squid is widely used in enterprise networks, ISPs, educational institutions, and other environments to improve performance, enhance security, and manage internet access. It is highly customizable and extensible, with a large community of users and developers contributing to its development and support.<br>
+  <p> Commands <br>
+    1. To install the squid package, run the following command:
+sudo apt-get update
+sudo apt-get install squid <br>
