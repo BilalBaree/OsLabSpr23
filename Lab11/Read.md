@@ -1,5 +1,5 @@
 <p> Summary <p><br>
-<p> Introduction <p><br>
+<p> Introduction <p>
  <p> Squid is a popular open-source caching and proxy server that runs on Linux and Unix-like
 operating systems. It provides a range of features, including caching web pages, filtering
 requests, and logging user activity. Squid is commonly used by organizations to improve network
